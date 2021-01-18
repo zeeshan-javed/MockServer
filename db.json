@@ -21,5 +21,9 @@
   "saveLocation": {
     "status": true,
     "message": "Success/Failure reason"
+  },
+  "saveLocationNeg": {
+    "status": false,
+    "message": "Failed to saved location"
   }
 }
